@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="basic-auth">
+    <Basepaths>/basic-auth</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1674128625626</CreatedAt>
+    <CreatedBy>surbhi.singhal@neosalpha.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>basic-auth</DisplayName>
+    <LastModifiedAt>1674191328916</LastModifiedAt>
+    <LastModifiedBy>surbhi.singhal@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:9da521ff6f46bfe7d156b351b7f3507b6b744c522745a1289c03a82a18b6fa64ffbff477d945fcaeda79393c091eba053cc22dbf08c68687716fab817e3aed56:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-1</Policy>
+        <Policy>Key-Value-Map-Operations-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

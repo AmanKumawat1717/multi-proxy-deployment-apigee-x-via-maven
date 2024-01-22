@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-Set-Headers" version="SHA-512:3a06cccc68ef30f9aecba07bc366ca9d17c778506666e23e19fa224b9c3642c06b16f64586cb5105df5c4567656ef4048d53277050bccceb601ac9b4b77cf001"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:b0ed38cf5289d84c247321c69a74b01b00c8d683b63ad914c0721983e7fae0fc099c041322504f4d274bf3dee516d305ac83545964b80b110dbb297ebe1bc390"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:cedb34ef8b1922ab34102058b808a8dbdf31137e545c7a111e974471e4e78b2f615af476c9c06f2a542e251ac0f8de4d5aa64913440385244126ac01da02ff23"/>
+    </TargetEndpoints>
+</Manifest>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StatisticsCollector async="false" continueOnError="false" enabled="true" name="Statistics-Collector-1">
+    <DisplayName>Statistics Collector-1</DisplayName>
+    <Properties/>
+    <Statistics>
+        <Statistic name="productID" ref="product.id" type="string">999999</Statistic>
+        <Statistic name="price" ref="product.price" type="string">0</Statistic>
+    </Statistics>
+</StatisticsCollector>

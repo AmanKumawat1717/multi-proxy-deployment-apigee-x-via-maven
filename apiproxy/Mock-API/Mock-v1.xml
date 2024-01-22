@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="Mock-v1">
+    <Basepaths>/v1/mock</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1678424339776</CreatedAt>
+    <CreatedBy>Payal.gehlot@neosalpha.com</CreatedBy>
+    <Description>Apigee mock target service endpoint</Description>
+    <DisplayName>Mock-API</DisplayName>
+    <LastModifiedAt>1678424339776</LastModifiedAt>
+    <LastModifiedBy>Payal.gehlot@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:cf7808d2550a7648cfa1b7beae6d2ee705d90d2ea197548e7ea8f20bef6697de11f1276e96c9d9e621d0ae5f3737435b7be28d1e46f4422379a5232241343d26:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>AM-Set-Headers</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
