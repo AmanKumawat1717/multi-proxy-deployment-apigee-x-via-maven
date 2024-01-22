@@ -1,5 +1,5 @@
 # multi-proxy-deployment-apigee-x-via-maven
-##Getting Started
+#Getting Started
 Sign up for an Apigee Account!. Not required if already provided.
 Download and install Maven 3.*
 
@@ -11,7 +11,7 @@ That's it! If everything ran smooth, you will see BUILD SUCCESS message at the o
 
 Basic Commands – apigee.options
 Configure, package, import, deploy, and test bundle (default validate apigee.option) – Creates new revision
-mvn clean install -Ptest -Denv=${env_name} -Dorg=${Org} -Dbearer=${Token} -Dproxyname=${proxyName}
+**mvn clean install -Ptest -Denv=${env_name} -Dorg=${Org} -Dbearer=${Token} -Dproxyname=${proxyName}**
 
 The following are available options:
 a. clean - This will delete the last deployed revision in an environment.
