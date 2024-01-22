@@ -8,7 +8,7 @@ Download and install Maven 3.*
 
 Clone this repo https://github.com/AmanKumawat1717/multi-proxy-deployment-apigee-x-via-maven
 
-Execute mvn clean install -Ptest -Denv=${env_name} -Dorg=${Org} -Dbearer=${Token} -Dproxyname=${proxyName}
+Execute **mvn clean install -Ptest -Denv=${env_name} -Dorg=${Org} -Dbearer=${Token} -Dproxyname=${proxyName}**
 
 That's it! If everything ran smooth, you will see BUILD SUCCESS message at the of the execution of this command. Next steps, learn a bit of Maven to customize the pom.xml.
 
