@@ -1,5 +1,6 @@
 # multi-proxy-deployment-apigee-x-via-maven
-#Getting Started
+
+**Getting Started**
 Sign up for an Apigee Account!. Not required if already provided.
 Download and install Maven 3.*
 
